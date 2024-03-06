@@ -2,6 +2,7 @@
 @extends('layouts.app')
 @section('content')
     @vite('resources/css/styleCards.css')
+    ccdncdnjc
 
 
 
